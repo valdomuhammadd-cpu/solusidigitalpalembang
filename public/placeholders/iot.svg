@@ -1,0 +1,20 @@
+<svg width="960" height="540" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" fill="#0A0F15"/>
+  <g opacity="0.2" stroke="#ffffff" stroke-width="1">
+    <path d="M0 80H960"/><path d="M0 140H960"/><path d="M0 200H960"/><path d="M0 260H960"/><path d="M0 320H960"/><path d="M0 380H960"/><path d="M0 440H960"/>
+  </g>
+  <g stroke="#FF6B00" stroke-width="2" fill="none" stroke-opacity="0.8">
+    <circle cx="250" cy="280" r="46"/>
+    <circle cx="480" cy="180" r="46"/>
+    <circle cx="710" cy="300" r="46"/>
+    <path d="M296 280H434"/>
+    <path d="M526 200L664 280"/>
+  </g>
+  <g fill="#141C28" stroke="#FF6B00" stroke-opacity="0.5">
+    <rect x="190" y="335" width="120" height="64" rx="8"/>
+    <rect x="420" y="235" width="120" height="64" rx="8"/>
+    <rect x="650" y="355" width="120" height="64" rx="8"/>
+  </g>
+  <text x="120" y="120" fill="#E6EAF2" font-size="26" font-family="Arial" font-weight="700">SENSOR TELEMETRY NETWORK</text>
+  <rect x="90" y="248" width="780" height="16" fill="#FF6B00" fill-opacity="0.35"/>
+</svg>

@@ -1,0 +1,364 @@
+{
+  "seo": {
+    "homeTitle": "Solusi Digital Palembang | Smart Digitalization Specialist",
+    "homeDescription": "Hardware clinic, software house, and industrial IoT services for modern companies.",
+    "portfolioTitle": "Portfolio | Solusi Digital Palembang",
+    "hardwareTitle": "Hardware Clinic | Solusi Digital Palembang",
+    "shopTitle": "Shop iPhone Certified | Solusi Digital Palembang"
+  },
+  "brand": "SOLUSI DIGITAL PALEMBANG",
+  "nav": {
+    "hardware": "Hardware",
+    "software": "Software",
+    "iot": "Industrial IoT",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "headline": "SOLUSI DIGITAL PALEMBANG",
+    "subHeadline": "Smart Digitalization Specialist",
+    "primaryCta": "Start Digitalization",
+    "mascotAlt": "Solusi Digital Palembang technology fox mascot"
+  },
+  "friction": {
+    "items": [
+      {
+        "title": "Operational Leakage",
+        "description": "Manual systems are slowing your growth."
+      },
+      {
+        "title": "Device Stagnation",
+        "description": "Hardware downtime is killing productivity."
+      },
+      {
+        "title": "Industrial Blind Spot",
+        "description": "Lack of real-time data monitoring creates blind decisions."
+      }
+    ],
+    "bridge": "Solusi Digital Palembang: Transforming Operational Barriers into Competitive Advantage."
+  },
+  "services": {
+    "eyebrow": "Solutions Ecosystem",
+    "title": "The Big 5",
+    "modal": {
+      "openLabel": "Open Dossier",
+      "closeLabel": "Close"
+    },
+    "robotFox": {
+      "alt": "Robot fox kinetic core",
+      "statusOnline": "[STATUS: ONLINE]",
+      "statusStandby": "[STATUS: STANDBY]"
+    },
+    "items": [
+      {
+        "id": "01",
+        "title": "Operational Digitalization",
+        "description": "Operational and government process digitalization powered by SIMKAPROV SUMSEL.",
+        "tags": ["PHP", "MariaDB"]
+      },
+      {
+        "id": "02",
+        "title": "AI Bot & Automation",
+        "description": "Digital outreach automation using Facebook Reach Bot to accelerate lead generation.",
+        "tags": ["Bot Automation", "Facebook Reach"]
+      },
+      {
+        "id": "03",
+        "title": "Industrial IoT",
+        "description": "Smart Pollution Monitor and Smart Mosque systems with real-time sensor pipelines.",
+        "tags": ["ESP32", "MQTT"]
+      },
+      {
+        "id": "04",
+        "title": "Web & App Architecture",
+        "description": "Modern product architecture for VDOTools and Untung.ai ecosystems.",
+        "tags": ["Next.js", "Rust"]
+      },
+      {
+        "id": "05",
+        "title": "Hardware & Security",
+        "description": "iPhone specialist services, hardware reliability, and enterprise device security.",
+        "tags": ["200+ Repairs", "Partner Support"]
+      }
+    ],
+    "caseStudies": [
+      {
+        "id": "01",
+        "title": "Operational Digitalization",
+        "headline": "SIMKAPROV SUMSEL",
+        "summary": "A provincial government management information platform for handling administrative workflows across agencies.",
+        "imagePath": "/placeholders/digitalisasi.svg",
+        "imageAlt": "Dark-tech SIMKAPROV placeholder visual",
+        "nodeLabel": "Security Dossier",
+        "projectsLabel": "Project Scope",
+        "projects": [
+          "SIMKAPROV SUMSEL Core Modules",
+          "Cross-Agency Administrative Workflows"
+        ],
+        "stackLabel": "Technology",
+        "stack": ["PHP", "MariaDB"],
+        "impactLabel": "Impact",
+        "impact": "Improved process traceability, reporting speed, and operational stability for government services.",
+        "iconText": "SIM"
+      },
+      {
+        "id": "02",
+        "title": "AI Bot & Automation",
+        "headline": "Facebook Reach Bot",
+        "summary": "Outreach bot system for Facebook Marketplace to scale offer distribution and structured follow-ups.",
+        "imagePath": "/placeholders/ai-bot.svg",
+        "imageAlt": "Dark-tech AI bot placeholder visual",
+        "nodeLabel": "Automation Node",
+        "projectsLabel": "Project Scope",
+        "projects": [
+          "Facebook Reach Bot Engine",
+          "Auto Messaging & Lead Routing"
+        ],
+        "stackLabel": "Technology",
+        "stack": ["Automation Script", "Marketplace Workflow"],
+        "impactLabel": "Impact",
+        "impact": "Increased daily outreach volume and response consistency to improve lead conversion.",
+        "iconText": "BOT"
+      },
+      {
+        "id": "03",
+        "title": "Industrial IoT",
+        "headline": "Smart Pollution Monitor & Smart Mosque",
+        "summary": "Sensor-device integration and monitoring dashboards for environmental and public facility operations.",
+        "imagePath": "/placeholders/iot.svg",
+        "imageAlt": "Dark-tech industrial IoT placeholder visual",
+        "nodeLabel": "Telemetry Node",
+        "projectsLabel": "Project Scope",
+        "projects": [
+          "Smart Pollution Monitor",
+          "Smart Mosque Sensor Network"
+        ],
+        "stackLabel": "Technology",
+        "stack": ["ESP32", "MQTT"],
+        "impactLabel": "Impact",
+        "impact": "Delivered real-time field data for faster, evidence-based operational decisions.",
+        "iconText": "IOT"
+      },
+      {
+        "id": "04",
+        "title": "Web & App Architecture",
+        "headline": "VDOTools & Untung.ai",
+        "summary": "High-performance digital products designed for internal workflows and business automation needs.",
+        "imagePath": "/placeholders/webapp.svg",
+        "imageAlt": "Dark-tech web app architecture placeholder visual",
+        "nodeLabel": "Application Node",
+        "projectsLabel": "Project Scope",
+        "projects": [
+          "VDOTools Productivity Platform",
+          "Untung.ai Web Intelligence"
+        ],
+        "stackLabel": "Technology",
+        "stack": ["Rust", "Next.js"],
+        "impactLabel": "Impact",
+        "impact": "Accelerated team efficiency through modern web architecture and reliable high-speed backend services.",
+        "iconText": "WEB"
+      },
+      {
+        "id": "05",
+        "title": "Hardware & Security",
+        "headline": "200+ Devices Repaired",
+        "summary": "Structured diagnostics, iPhone specialist repair, and device security reinforcement for enterprise and institutional clients.",
+        "imagePath": "/placeholders/hardware-security.svg",
+        "imageAlt": "Dark-tech hardware security placeholder visual",
+        "nodeLabel": "Defense Node",
+        "projectsLabel": "Project Scope",
+        "projects": [
+          "iPhone Specialist Repair Pipeline",
+          "Partner Support: Pertamina, Dishub, UIGM"
+        ],
+        "stackLabel": "Technology",
+        "stack": ["Hardware Diagnostics", "Board Repair", "Device Hardening"],
+        "impactLabel": "Impact",
+        "impact": "Improved device reliability and minimized critical downtime in daily client operations.",
+        "iconText": "HW"
+      }
+    ]
+  },
+  "achievements": {
+    "eyebrow": "Track Record & Trust",
+    "title": "Real Achievements for Corporate and Government Clients",
+    "flagship": {
+      "label": "Flagship Project",
+      "projectName": "Sistem Informasi Manajemen Pemerintahan Provinsi Sumatera Selatan",
+      "projectUrl": "https://simkaprovsumsel.com",
+      "description": "We contribute as a technical partner in the development and maintenance of simkaprovsumsel.com to support faster, safer, and more measurable government operations.",
+      "roleTitle": "Our Role",
+      "roleDescription": "Continuous development, performance monitoring, and core system maintenance.",
+      "technicalScopeLabel": "Technical Scope",
+      "technicalHighlight": "Database Optimization & System Security to keep institution-scale services stable."
+    },
+    "counters": [
+      {
+        "value": 100,
+        "suffix": "+",
+        "label": "Android Devices Revived"
+      },
+      {
+        "value": 50,
+        "suffix": "+",
+        "label": "iPhone Specialist Fixes"
+      },
+      {
+        "value": 50,
+        "suffix": "+",
+        "label": "Laptop & Computer Systems Optimized"
+      },
+      {
+        "value": 30,
+        "suffix": "+",
+        "label": "Corporate Solutions Implemented"
+      }
+    ],
+    "partners": {
+      "title": "Trusted Partners",
+      "caption": "Trusted by government institutions, national corporations, and education organizations.",
+      "items": ["PERTAMINA", "DINAS PERHUBUNGAN", "UNIVERSITAS INDO GLOBAL MANDIRI (UIGM)"]
+    },
+    "about": {
+      "title": "Strategic Technology Partner",
+      "description": "Solusi Digital Palembang operates as a Strategic Technology Partner with proven expertise in bridging the gap between hardware reliability and software innovation for modern operations."
+    }
+  },
+  "quotationCalculator": {
+    "eyebrow": "Instant Quotation",
+    "title": "Instant Quotation Calculator",
+    "description": "Select the services you need to get a quick starting estimate. This helps our team prepare a focused technical consultation session.",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Example: John - Acme Corp",
+    "companyLabel": "Company / Institution",
+    "companyPlaceholder": "Example: Acme Corp / Gov Agency",
+    "timelineLabel": "Target Timeline",
+    "timelinePlaceholder": "Select target timeline",
+    "timelineOptions": [
+      "ASAP (1-2 weeks)",
+      "1 month",
+      "2-3 months",
+      "3-6 months",
+      "Still exploring"
+    ],
+    "startsFromLabel": "Starts From",
+    "customQuoteLabel": "Custom Quote",
+    "customQuoteShort": "Custom Quote",
+    "emptyBudgetLabel": "Select services first",
+    "finalizeButton": "Finalize & Send to WhatsApp",
+    "chooseAtLeastOne": "Select at least 1 service",
+    "mobileHint": "Mobile-ready: choose services, review estimate, and send directly to our WhatsApp.",
+    "services": [
+      {
+        "id": "webapp",
+        "name": "Web/App Development",
+        "estimate": "Est: 5jt - 50jt+",
+        "startsFrom": 5000000,
+        "custom": false
+      },
+      {
+        "id": "ai-bot",
+        "name": "AI Bot & Automation",
+        "estimate": "Est: 3jt - 15jt+",
+        "startsFrom": 3000000,
+        "custom": false
+      },
+      {
+        "id": "iot",
+        "name": "Industrial IoT",
+        "estimate": "Est: 10jt - 100jt+",
+        "startsFrom": 10000000,
+        "custom": false
+      },
+      {
+        "id": "digitalisasi",
+        "name": "Digitalisasi Operasional",
+        "estimate": "Custom Quote",
+        "startsFrom": null,
+        "custom": true
+      },
+      {
+        "id": "hardware",
+        "name": "Specialist Hardware Fix",
+        "estimate": "Est: 500rb - 5jt",
+        "startsFrom": 500000,
+        "custom": false
+      }
+    ]
+  },
+  "expertise": {
+    "eyebrow": "Elite Engineering",
+    "title": "Architected by Tech Experts",
+    "items": [
+      {
+        "title": "Ex-President of HIMASTER",
+        "description": "Leadership proven in university-scale tech organizations to push regional digital excellence."
+      },
+      {
+        "title": "Robotics Background",
+        "description": "Expertise in physical-to-digital systems, transforming complex sensor data into actionable business intelligence."
+      },
+      {
+        "title": "Silicon Valley Standards",
+        "description": "Applying global best practices in code quality, security protocols, and hardware reliability."
+      }
+    ]
+  },
+  "cta": {
+    "title": "READY TO UPGRADE YOUR OPERATIONS?",
+    "description": "Join high-performance enterprises leveraging Solusi Digital Palembang for mission-critical technology services.",
+    "primary": "Schedule Consultation",
+    "secondary": "Download Portfolio"
+  },
+  "footer": {
+    "copy": "© 2024 SOLUSI DIGITAL PALEMBANG. THE KINETIC ENGINE.",
+    "links": ["Privacy Policy", "Terms of Service", "Technical Documentation", "Contact Engineering"],
+    "contact": {
+      "emailLabel": "Email",
+      "emailValue": "solusidigitalpalembang@gmail.com",
+      "copyLabel": "Copy",
+      "copiedLabel": "Copied",
+      "instagramLabel": "Instagram",
+      "instagramValue": "@solusidigital.palembang",
+      "instagramUrl": "https://www.instagram.com/solusidigital.palembang/",
+      "addressLabel": "Address",
+      "addressValue": "Palembang, South Sumatra, Indonesia"
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio Engineering",
+    "description": "Technical achievements across hardware, software, and industrial IoT.",
+    "allProjects": "All Projects"
+  },
+  "hardware": {
+    "title": "Hardware Clinic",
+    "description": "Premium diagnostics and repair pricing.",
+    "whatsappLabel": "Consult via WhatsApp",
+    "whatsappMessage": "Hello Valdo, I want to consult about hardware services."
+  },
+  "shop": {
+    "title": "iPhone Certified Units",
+    "description": "Curated units validated by technicians.",
+    "whatsappLabel": "Order via WhatsApp",
+    "whatsappMessage": "Hello Valdo, I am interested in an iPhone Certified unit."
+  },
+  "auth": {
+    "loginTitle": "Login",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "unauthorized": "You do not have access to the admin area"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "priceManagement": "Price Management",
+    "shopInventory": "Shop Inventory",
+    "projectManagement": "Project Management",
+    "save": "Save",
+    "create": "Create",
+    "edit": "Edit",
+    "update": "Update",
+    "delete": "Delete"
+  }
+}

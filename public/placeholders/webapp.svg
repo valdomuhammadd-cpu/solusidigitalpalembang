@@ -1,0 +1,17 @@
+<svg width="960" height="540" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" fill="#0A0D14"/>
+  <rect x="90" y="90" width="780" height="360" rx="18" fill="#111725" stroke="#FF6B00" stroke-opacity="0.4"/>
+  <rect x="130" y="130" width="700" height="34" rx="8" fill="#1B2433"/>
+  <circle cx="155" cy="147" r="6" fill="#FF6B00"/>
+  <circle cx="178" cy="147" r="6" fill="#FF6B00" fill-opacity="0.5"/>
+  <circle cx="201" cy="147" r="6" fill="#FF6B00" fill-opacity="0.3"/>
+  <rect x="130" y="190" width="250" height="220" rx="10" fill="#151E2D"/>
+  <rect x="400" y="190" width="430" height="60" rx="10" fill="#151E2D"/>
+  <rect x="400" y="265" width="430" height="60" rx="10" fill="#151E2D"/>
+  <rect x="400" y="340" width="300" height="60" rx="10" fill="#151E2D"/>
+  <g opacity="0.2" stroke="#ffffff" stroke-width="1">
+    <path d="M90 210H870"/><path d="M90 270H870"/><path d="M90 330H870"/><path d="M90 390H870"/>
+  </g>
+  <rect x="90" y="290" width="780" height="14" fill="#FF6B00" fill-opacity="0.4"/>
+  <text x="130" y="105" fill="#E6EAF2" font-size="22" font-family="Arial" font-weight="700">WEB APP ARCHITECTURE STACK</text>
+</svg>

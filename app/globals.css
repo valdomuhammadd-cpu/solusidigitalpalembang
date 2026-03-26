@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --primary: #ff6b00;
+  --surface: #f5f5f7;
+  --text: #050505;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body), sans-serif;
+}
+
+.bg-mesh-light {
+  background-color: #ffffff;
+  background-image: radial-gradient(at 0% 0%, rgba(255, 107, 0, 0.04) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(255, 107, 0, 0.04) 0px, transparent 50%);
+}
+
+.glass-card {
+  background: rgba(245, 245, 247, 0.82);
+  border: 1px solid #e5e7eb;
+  backdrop-filter: blur(14px);
+}
+
+.text-glow {
+  text-shadow: 0 0 24px rgba(255, 107, 0, 0.2);
+}

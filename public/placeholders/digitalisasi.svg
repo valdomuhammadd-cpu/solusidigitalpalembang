@@ -1,0 +1,25 @@
+<svg width="960" height="540" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090B10"/>
+      <stop offset="1" stop-color="#141923"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B00" stop-opacity="0.1"/>
+      <stop offset="0.5" stop-color="#FF6B00" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FF6B00" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)"/>
+  <g opacity="0.2" stroke="#ffffff" stroke-width="1">
+    <path d="M0 90H960"/><path d="M0 150H960"/><path d="M0 210H960"/><path d="M0 270H960"/><path d="M0 330H960"/><path d="M0 390H960"/><path d="M0 450H960"/>
+  </g>
+  <rect x="90" y="100" width="780" height="340" rx="16" fill="#0E131C" stroke="#FF6B00" stroke-opacity="0.35"/>
+  <rect x="130" y="145" width="300" height="36" rx="8" fill="#1C2432"/>
+  <rect x="130" y="205" width="690" height="22" rx="6" fill="#1A2230"/>
+  <rect x="130" y="243" width="560" height="22" rx="6" fill="#1A2230"/>
+  <rect x="130" y="281" width="620" height="22" rx="6" fill="#1A2230"/>
+  <rect x="130" y="331" width="220" height="48" rx="10" fill="#FF6B00" fill-opacity="0.2" stroke="#FF6B00"/>
+  <rect x="100" y="260" width="760" height="14" fill="url(#accent)"/>
+  <text x="130" y="170" fill="#E6EAF2" font-size="24" font-family="Arial" font-weight="700">SIMKAPROV OPERATIONAL GRID</text>
+</svg>

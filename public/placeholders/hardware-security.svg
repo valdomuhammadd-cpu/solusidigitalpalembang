@@ -1,0 +1,16 @@
+<svg width="960" height="540" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" fill="#090C12"/>
+  <g opacity="0.22" stroke="#ffffff" stroke-width="1">
+    <path d="M0 100H960"/><path d="M0 160H960"/><path d="M0 220H960"/><path d="M0 280H960"/><path d="M0 340H960"/><path d="M0 400H960"/><path d="M0 460H960"/>
+  </g>
+  <rect x="120" y="100" width="300" height="340" rx="16" fill="#121A28" stroke="#FF6B00" stroke-opacity="0.45"/>
+  <rect x="460" y="100" width="380" height="340" rx="16" fill="#121A28" stroke="#FF6B00" stroke-opacity="0.45"/>
+  <path d="M260 170L312 204V272C312 316 284 352 260 366C236 352 208 316 208 272V204L260 170Z" fill="#FF6B00" fill-opacity="0.2" stroke="#FF6B00"/>
+  <rect x="190" y="385" width="140" height="24" rx="8" fill="#FF6B00" fill-opacity="0.25"/>
+  <rect x="500" y="150" width="300" height="24" rx="6" fill="#1C2534"/>
+  <rect x="500" y="196" width="300" height="24" rx="6" fill="#1C2534"/>
+  <rect x="500" y="242" width="260" height="24" rx="6" fill="#1C2534"/>
+  <rect x="500" y="310" width="220" height="72" rx="10" fill="#FF6B00" fill-opacity="0.2" stroke="#FF6B00"/>
+  <text x="500" y="345" fill="#E6EAF2" font-size="20" font-family="Arial" font-weight="700">HARDWARE LAB</text>
+  <rect x="120" y="260" width="720" height="12" fill="#FF6B00" fill-opacity="0.35"/>
+</svg>
